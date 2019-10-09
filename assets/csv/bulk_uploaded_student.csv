@@ -1,0 +1,3 @@
+name*,admission_no*,guardian_id*,relation_with_guardian,national_id*,registration_no*,roll_no*,date_of_birth*,gender*,phone*,email*,password*,group,blood_group,religion,discount_id,present_address,permanent_address,second_language,health_condition,previous_school,father_name,father_phone,father_education,father_profession,father_designation,mother_name,mother_phone,mother_education,mother_profession,mother_designation,other_info
+Bulk 1,12345,9,father,123456987,435646,1001,1/1/2001,male,123654,bulk1@gmail.com,123456,arts,a_positive,islam,,test addr,test addr 2,english,good,test school,,,,,,,,,,,
+Bulk 2,123456,10,father,123456987,465464,1002,2/2/2001,female,123456,bulk2@gmail.com,123456,science,b_positive,islam,,,,,,,,,,,,,,,,,

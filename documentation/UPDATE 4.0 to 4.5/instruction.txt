@@ -1,0 +1,19 @@
+1. Backup your database and all files
+
+2. Replace all files of 4.0 version files with new 4.5 version files
+
+3. Keep existing database connection in the new database connection file
+    aplication->config->database.php
+
+4.  Keep existing base url in the new config file
+    aplication->config->config.php
+
+5. Run alter.sql in you existing database from 
+    phpmyadmin
+    select your database
+    click SQL tab
+    paste your sql here
+    finally click GO Button
+
+Thank you
+

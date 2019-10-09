@@ -1,0 +1,109 @@
+body {   
+    background: #9370DB;    
+}
+.nav_menu{
+  background: linear-gradient(#9370DB, #cbe5ff), #0459af;
+}
+.modal-header {
+    padding: 6px 10px;
+    background: #9370DB;
+    background: linear-gradient(#9370DB, #cbe5ff), #0459af;
+    color: #fff;
+}
+.alert-success {
+    color: #ffffff;
+    background-color: #9370DB;
+    border-color: #9370DB;
+}
+.left_col, .right_col {
+    background: #9370DB;
+}
+
+.nav_title {
+    background: #9370DB;
+}
+
+.nav_title span{
+    color: #fdfdfd;   
+}
+
+.nav.side-menu>li>a, .nav.child_menu>li>a {
+    color: #fdfdfd;   
+}
+
+.nav.side-menu>li.active>a{
+    background: linear-gradient(#874dff, #8754ef), #8754ef;
+}
+
+.nav-md ul.nav.child_menu li.current-page {
+    background: #af92e8;
+}
+
+.nav-md ul.nav.child_menu li:before{
+    background: #ffffff;
+}
+
+
+.main_menu span.fa{
+    color: #ffffff;
+}
+
+.fa{
+    color: #ffffff;
+}
+
+.navbar-right .fa{
+    color:#9370DB !important
+}
+
+.site_title{
+    color:#c5c5c5 !important
+}
+
+.head-title i.fa {   
+    color: #9370DB;
+}
+
+#menu_toggle i, .nav-tabs i{
+    color: #9370DB;
+}
+
+.x_title {
+    border-bottom: 2px solid #9370DB;
+}
+
+.btn-success {
+    color: #fdfdfd;
+    background-color: #9370DB;
+    border-color: #9370DB;
+}
+
+.btn-success:hover {
+    background-color: #9370DB;
+    border-color: #9370DB;
+}
+
+.nav-sm ul.nav.child_menu{
+    background: #9370DB;
+}
+
+.head-title , .head-title small{   
+    color: #9370DB;
+}
+
+.nav.child_menu {
+    background: #a377f9;
+}
+
+.fa-sign-out,
+.box-footer .fa,
+.fa-print,
+.btn-group .fa,
+.btn-file .fa,
+.mail-menu-box  .fa,
+.stats-count-inner  .fa,
+.mailbox-controls .fa,
+.compose-msg .fa,
+.theme-color .fa{
+    color: #9370DB;
+}
